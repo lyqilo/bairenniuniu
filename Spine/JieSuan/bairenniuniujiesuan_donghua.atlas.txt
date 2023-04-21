@@ -1,0 +1,230 @@
+
+bairenniuniujiesuan_donghua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu_guang_a
+  rotate: false
+  xy: 2, 737
+  size: 581, 285
+  orig: 618, 304
+  offset: 20, 19
+  index: -1
+shu_huizhang_a
+  rotate: false
+  xy: 2, 570
+  size: 159, 165
+  orig: 161, 167
+  offset: 1, 1
+  index: -1
+shu_huizhang_b
+  rotate: true
+  xy: 163, 576
+  size: 159, 165
+  orig: 161, 167
+  offset: 1, 1
+  index: -1
+shu_zi
+  rotate: true
+  xy: 2, 154
+  size: 265, 146
+  orig: 267, 147
+  offset: 1, 1
+  index: -1
+shu_zi_0001
+  rotate: true
+  xy: 396, 48
+  size: 46, 65
+  orig: 271, 147
+  offset: 24, 78
+  index: -1
+shu_zi_0002
+  rotate: true
+  xy: 642, 251
+  size: 78, 72
+  orig: 271, 147
+  offset: 21, 73
+  index: -1
+shu_zi_0003
+  rotate: true
+  xy: 273, 18
+  size: 98, 121
+  orig: 271, 147
+  offset: 14, 25
+  index: -1
+shu_zi_0004
+  rotate: true
+  xy: 273, 118
+  size: 125, 120
+  orig: 271, 147
+  offset: 14, 26
+  index: -1
+shu_zi_0005
+  rotate: true
+  xy: 396, 96
+  size: 158, 119
+  orig: 271, 147
+  offset: 23, 26
+  index: -1
+shu_zi_0006
+  rotate: true
+  xy: 716, 170
+  size: 149, 118
+  orig: 271, 147
+  offset: 51, 26
+  index: -1
+shu_zi_0007
+  rotate: true
+  xy: 396, 256
+  size: 151, 121
+  orig: 271, 147
+  offset: 82, 25
+  index: -1
+shu_zi_0008
+  rotate: true
+  xy: 2, 2
+  size: 150, 121
+  orig: 271, 147
+  offset: 104, 25
+  index: -1
+shu_zi_0009
+  rotate: true
+  xy: 519, 201
+  size: 128, 121
+  orig: 271, 147
+  offset: 131, 25
+  index: -1
+shu_zi_0010
+  rotate: true
+  xy: 833, 66
+  size: 102, 118
+  orig: 271, 147
+  offset: 158, 25
+  index: -1
+shu_zi_0011
+  rotate: true
+  xy: 125, 18
+  size: 73, 103
+  orig: 271, 147
+  offset: 186, 25
+  index: -1
+shu_zi_0012
+  rotate: false
+  xy: 558, 551
+  size: 22, 24
+  orig: 271, 147
+  offset: 214, 26
+  index: -1
+ying_guang_a
+  rotate: true
+  xy: 585, 454
+  size: 568, 276
+  orig: 618, 304
+  offset: 26, 28
+  index: -1
+ying_jiangzhuang_a
+  rotate: false
+  xy: 273, 409
+  size: 159, 165
+  orig: 161, 167
+  offset: 1, 1
+  index: -1
+ying_jiangzhuang_b
+  rotate: true
+  xy: 330, 576
+  size: 159, 165
+  orig: 161, 167
+  offset: 1, 1
+  index: -1
+ying_zi
+  rotate: false
+  xy: 2, 421
+  size: 269, 147
+  orig: 271, 147
+  offset: 1, 0
+  index: -1
+ying_zi_0001
+  rotate: true
+  xy: 497, 577
+  size: 40, 61
+  orig: 271, 147
+  offset: 30, 83
+  index: -1
+ying_zi_0002
+  rotate: false
+  xy: 497, 619
+  size: 79, 116
+  orig: 271, 147
+  offset: 14, 28
+  index: -1
+ying_zi_0003
+  rotate: false
+  xy: 517, 78
+  size: 115, 121
+  orig: 271, 147
+  offset: 12, 24
+  index: -1
+ying_zi_0004
+  rotate: true
+  xy: 434, 447
+  size: 127, 122
+  orig: 271, 147
+  offset: 12, 24
+  index: -1
+ying_zi_0005
+  rotate: true
+  xy: 273, 245
+  size: 162, 121
+  orig: 271, 147
+  offset: 18, 25
+  index: -1
+ying_zi_0006
+  rotate: true
+  xy: 150, 253
+  size: 166, 121
+  orig: 271, 147
+  offset: 45, 25
+  index: -1
+ying_zi_0007
+  rotate: false
+  xy: 558, 331
+  size: 165, 121
+  orig: 271, 147
+  offset: 74, 25
+  index: -1
+ying_zi_0008
+  rotate: true
+  xy: 150, 93
+  size: 158, 121
+  orig: 271, 147
+  offset: 102, 25
+  index: -1
+ying_zi_0009
+  rotate: true
+  xy: 725, 321
+  size: 131, 121
+  orig: 271, 147
+  offset: 130, 25
+  index: -1
+ying_zi_0010
+  rotate: true
+  xy: 709, 65
+  size: 103, 122
+  orig: 271, 147
+  offset: 158, 24
+  index: -1
+ying_zi_0011
+  rotate: false
+  xy: 642, 133
+  size: 65, 116
+  orig: 271, 147
+  offset: 193, 24
+  index: -1
+ying_zi_0012
+  rotate: true
+  xy: 434, 413
+  size: 32, 56
+  orig: 271, 147
+  offset: 213, 25
+  index: -1

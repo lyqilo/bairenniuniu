@@ -1,0 +1,153 @@
+
+an_bairenniuniu_kaipai_supperniu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/images_niu_diban
+  rotate: false
+  xy: 500, 966
+  size: 172, 43
+  orig: 172, 43
+  offset: 0, 0
+  index: -1
+images/images_shaoguagn1
+  rotate: false
+  xy: 674, 952
+  size: 97, 57
+  orig: 317, 86
+  offset: 110, 12
+  index: -1
+images/images_shaoguagn10
+  rotate: false
+  xy: 2, 755
+  size: 315, 72
+  orig: 317, 86
+  offset: 1, 12
+  index: -1
+images/images_shaoguagn11
+  rotate: false
+  xy: 2, 829
+  size: 315, 68
+  orig: 317, 86
+  offset: 1, 11
+  index: -1
+images/images_shaoguagn12
+  rotate: true
+  xy: 926, 948
+  size: 61, 69
+  orig: 317, 86
+  offset: 128, 10
+  index: -1
+images/images_shaoguagn13
+  rotate: true
+  xy: 2, 904
+  size: 63, 74
+  orig: 317, 86
+  offset: 127, 10
+  index: -1
+images/images_shaoguagn14
+  rotate: true
+  xy: 78, 902
+  size: 64, 75
+  orig: 317, 86
+  offset: 127, 8
+  index: -1
+images/images_shaoguagn15
+  rotate: false
+  xy: 155, 901
+  size: 65, 65
+  orig: 317, 86
+  offset: 126, 8
+  index: -1
+images/images_shaoguagn2
+  rotate: false
+  xy: 773, 950
+  size: 151, 59
+  orig: 317, 86
+  offset: 83, 11
+  index: -1
+images/images_shaoguagn3
+  rotate: false
+  xy: 222, 899
+  size: 207, 66
+  orig: 317, 86
+  offset: 55, 8
+  index: -1
+images/images_shaoguagn4
+  rotate: false
+  xy: 748, 874
+  size: 261, 72
+  orig: 317, 86
+  offset: 28, 5
+  index: -1
+images/images_shaoguagn5
+  rotate: false
+  xy: 637, 719
+  size: 316, 79
+  orig: 317, 86
+  offset: 0, 2
+  index: -1
+images/images_shaoguagn6
+  rotate: false
+  xy: 319, 810
+  size: 316, 71
+  orig: 317, 86
+  offset: 0, 8
+  index: -1
+images/images_shaoguagn7
+  rotate: false
+  xy: 431, 883
+  size: 315, 67
+  orig: 317, 86
+  offset: 1, 12
+  index: -1
+images/images_shaoguagn8
+  rotate: false
+  xy: 637, 800
+  size: 315, 72
+  orig: 317, 86
+  offset: 1, 13
+  index: -1
+images/images_shaoguagn9
+  rotate: false
+  xy: 319, 735
+  size: 316, 73
+  orig: 317, 86
+  offset: 1, 12
+  index: -1
+images/supper_niu/iamges_sizha
+  rotate: false
+  xy: 117, 968
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+images/supper_niu/images_niuniu
+  rotate: false
+  xy: 195, 968
+  size: 75, 41
+  orig: 76, 42
+  offset: 1, 0
+  index: -1
+images/supper_niu/images_sihuaniu
+  rotate: false
+  xy: 272, 967
+  size: 111, 42
+  orig: 112, 42
+  offset: 1, 0
+  index: -1
+images/supper_niu/images_wuhuaniu
+  rotate: false
+  xy: 385, 967
+  size: 113, 42
+  orig: 114, 42
+  offset: 0, 0
+  index: -1
+images/supper_niu/images_wuxiaoniu
+  rotate: false
+  xy: 2, 969
+  size: 113, 40
+  orig: 113, 41
+  offset: 0, 0
+  index: -1

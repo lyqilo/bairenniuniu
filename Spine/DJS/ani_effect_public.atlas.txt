@@ -1,0 +1,83 @@
+
+ani_effect_public.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/images_shanguang1
+  rotate: false
+  xy: 2, 726
+  size: 255, 247
+  orig: 266, 259
+  offset: 6, 7
+  index: -1
+images/images_shanguang2
+  rotate: false
+  xy: 259, 740
+  size: 245, 233
+  orig: 266, 259
+  offset: 9, 14
+  index: -1
+images/images_shanguang3
+  rotate: false
+  xy: 506, 749
+  size: 240, 224
+  orig: 266, 259
+  offset: 11, 16
+  index: -1
+images/images_shanguang4
+  rotate: false
+  xy: 748, 748
+  size: 225, 225
+  orig: 266, 259
+  offset: 20, 19
+  index: -1
+images/images_shanguang5
+  rotate: true
+  xy: 506, 525
+  size: 222, 225
+  orig: 266, 259
+  offset: 22, 18
+  index: -1
+images/images_shanguang6
+  rotate: false
+  xy: 259, 517
+  size: 224, 221
+  orig: 266, 259
+  offset: 17, 18
+  index: -1
+images/images_shanguang7
+  rotate: false
+  xy: 2, 544
+  size: 190, 180
+  orig: 266, 259
+  offset: 35, 46
+  index: -1
+images/images_shanguang8
+  rotate: false
+  xy: 2, 398
+  size: 144, 144
+  orig: 266, 259
+  offset: 54, 52
+  index: -1
+images/images_shuzi(1)
+  rotate: false
+  xy: 194, 600
+  size: 50, 124
+  orig: 83, 127
+  offset: 12, 2
+  index: -1
+images/images_shuzi(2)
+  rotate: true
+  xy: 733, 666
+  size: 80, 126
+  orig: 83, 127
+  offset: 0, 1
+  index: -1
+images/images_shuzi(3)
+  rotate: false
+  xy: 148, 416
+  size: 82, 126
+  orig: 83, 127
+  offset: 1, 1
+  index: -1

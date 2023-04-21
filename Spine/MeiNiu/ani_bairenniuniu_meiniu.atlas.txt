@@ -1,0 +1,27 @@
+
+ani_bairenniuniu_meiniu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/images_meiniu1
+  rotate: true
+  xy: 2, 219
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+images/images_meiniu2
+  rotate: true
+  xy: 39, 215
+  size: 38, 40
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+images/images_niu_diban
+  rotate: false
+  xy: 81, 210
+  size: 172, 43
+  orig: 172, 43
+  offset: 0, 0
+  index: -1

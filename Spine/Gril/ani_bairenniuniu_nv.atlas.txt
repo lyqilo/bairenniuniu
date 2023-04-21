@@ -1,0 +1,41 @@
+
+ani_bairenniuniu_nv.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/_0000_images_renwu1
+  rotate: false
+  xy: 2, 21
+  size: 87, 165
+  orig: 88, 166
+  offset: 0, 1
+  index: -1
+images/_0001_nvhai_hair2-2
+  rotate: false
+  xy: 62, 7
+  size: 12, 12
+  orig: 15, 13
+  offset: 0, 1
+  index: -1
+images/_0002_nvhai_hair2-1
+  rotate: false
+  xy: 47, 7
+  size: 13, 12
+  orig: 18, 12
+  offset: 1, 0
+  index: -1
+images/_0003_nvhai_hair2
+  rotate: true
+  xy: 25, 5
+  size: 14, 20
+  orig: 19, 20
+  offset: 5, 0
+  index: -1
+images/_0004_nvhai_hair1
+  rotate: true
+  xy: 2, 2
+  size: 17, 21
+  orig: 20, 22
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,34 @@
+
+ani_bairenniuniu_gou.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/images_dog
+  rotate: false
+  xy: 2, 29
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+images/images_gouyb1
+  rotate: true
+  xy: 29, 14
+  size: 13, 10
+  orig: 13, 11
+  offset: 0, 1
+  index: -1
+images/images_gouyb2
+  rotate: true
+  xy: 29, 2
+  size: 10, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+images/images_yuanquan1
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
